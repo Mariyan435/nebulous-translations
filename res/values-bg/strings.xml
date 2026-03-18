@@ -313,50 +313,50 @@
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Победи поне с 7500 точки в една Екипи Време игра."</string> <!--"Победи с 7500 точки в един Отбори Time игра" ---> "Победи поне с 7500 точки в една Екипи Време игра" made the gamemode name according to the 1st reference of it, added a preposition and changed the definite article of a word-->
     <string name="Win_by_3_points_in_a_CTF_game_">"Победи с 3 точки в CTF игра."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Отбележи 3 точки в една CTF игра."</string>
-    <string name="Win_by_2_500_points_in_a_Survival_game_">"Победа с 2500 точки в Оцеляване игра."</string> <!---->
-    <string name="Survive_but_do_not_win_a_survival_game_">"Оцилей, но не печели игра оцеляване."</string> <!---->
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"Победи поне с 2500 точки в Оцеляване."</string> <!--"Победа с 2500 точки в Оцеляване игра" ---> "Победи поне с 2500 точки в Оцеляване" added a preposition and fixed the grammar-->
+    <string name="Survive_but_do_not_win_a_survival_game_">"Оцелей, но не печели игра на Оцеляване."</string> <!--"Оцилей, но не печели игра оцеляване" ---> "Оцелей, но не печели игра на Оцеляване" fixed a spelling + added a preposition to fix the grammar-->
     <string name="Win_by_8_points_in_a_Soccer_game_">"Победа с 8 точки в един мач във Футбол."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Отбележи 3 гола в един мач във Футбол."</string>
-    <string name="Total_Domination">"Общо Надмощие"</string> <!---->
+    <string name="Total_Domination">"Абсолютна Доминация"</string> <!--here "total" is synonymous to "absolute", and not "sum", and to make it sound better i used a synonym for the 2nd word "Общо надмощие" ---> "Абсолютна доминация"-->
     <string name="Win_500_games_of_any_type_">"Спечели 500 игри от всякакъв тип."</string>
     <string name="Translations">"Преводи"</string>
     <string name="Developers">"Разработчици"</string>
     <string name="Special_Thanks">"Специални благодарности на"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Много благодаря на всеки Nebulous фен"</string> <!---->
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Много благодарности на всеки Nebulous фен"</string> <!--"Много благодаря" ---> "Много благодарности" wrong cognate word was used-->
     <string name="Color_Blind">"Далтонист"</string>
-    <string name="Daily_Quest_Complete_">"Дневна Задача Завърше!"</string> <!---->
+    <string name="Daily_Quest_Complete_">"Дневна Задача Завършена!"</string> <!--fixed a spelling error-->
     <string name="COPY_ID">"КОПИРАЙ ID"</string>
     <string name="My_Account_ID">"Моят профил ID"</string>
 
 
     <string name="COMPLETE">"ЗАВЪРШЕНО"</string>
     <string name="INCOMPLETE">"НЕЗАВЪРШЕНО"</string>
-    <string name="Win_a_FFA_Time_Game">"Спечели Игра Време FFA"</string> <!---->
+    <string name="Win_a_FFA_Time_Game">"Спечели FFA  Време Игра"</string> <!--"Спечели Игра Време FFA" ---> "Спечели FFA  Време игра" this is the correct order of words that should be used-->
     <string name="Win_a_CTF_Game">"Спечели CTF Игра"</string>
     <string name="Win_a_Soccer_Game">"Спечели игра във Футбол"</string>
     <string name="Win_a_Survival_Game">"Спечели игра в Оцеляване"</string>
     <string name="Win_a_Teams_Time_Game">"Спечели игра в отбори време"</string>
     <string name="Reach_a_score_of_">"Достигни резултат от "</string>
-    <string name="_in_a_FFA_Game">" в FFA Игра"</string> <!---->
+    <string name="_in_a_FFA_Game">" във FFA Игра"</string> <!--wrong preposition-->
     <string name="_in_a_Teams_Game">" в Отбори Игра"</string>
-    <string name="_dots">" точици"</string> <!---->
-    <string name="_player_blobs">" плейър петна"</string> <!---->
-    <string name="Absorb_">"Поета "</string> <!---->
-    <string name="Collect_">"Събирам "</string> <!---->
+    <string name="_dots">" точици"</string>
+    <string name="_player_blobs">" плейър блобове"</string> <!--"петна" ---> "блобове" translation before was too literal and didn't maintain the terminology of the game-->
+    <string name="Absorb_">"Изяж "</string> <!--"Поета" ---> "Изяж" contextually it sounds very awkward and my translation fixes it-->
+    <string name="Collect_">"Събери "</string> <!--"Събирам" ---> "Събери" wrong form of the verb-->
 
     <string name="FFA_CLASSIC">"FFA КЛАСИК"</string>
 
 
     <string name="pumpkins_">"тикви."</string>
-    <string name="To_use_this_skin_you_must_collect">"За да използвате тази кожа трябва да съберете"</string> <!---->
+    <string name="To_use_this_skin_you_must_collect">"За да използвате този скин трябва да съберете"</string> <!--"тази кожа" ---> "този скин" the translation was too literal; my one maintains the terminology of th egame-->
     <string name="Australia">"Австралия"</string>
-    <string name="Pumpkin_Collector">"Pumpkin Collector"</string> <!---->
-    <string name="Collect_1000_pumpkins_">"Събирайте 1000 тикви."</string> <!---->
+    <string name="Pumpkin_Collector">"Събирач на Тикви"</string> <!--lacks a translation-->
+    <string name="Collect_1000_pumpkins_">"Съберете 1000 тикви."</string> <!--"Събирайте" ---> "Съберете" wrong conditional used-->
 
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"Нищо"</string>
-    <string name="CLAN_WAR">"CLAN WAR"</string> <!---->
-    <string name="Clan_War">"Clan War"</string> <!---->
+    <string name="CLAN_WAR">"КЛАН ВОЙНА"</string> <!--lacks a translation-->
+    <string name="Clan_War">"Клан Война"</string> <!--lacks a translaiton-->
 
     <string name="Forming">"Формиране"</string>
     <string name="Searching">"Търсене"</string>
@@ -366,22 +366,22 @@
 
     <string name="Score">"Резултат"</string>
     <string name="Rating">"Оценка"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Вие сте на път да направи нов лидер!"</string> <!---->
+    <string name="You_are_about_to_make_a_new_leader_">"Вие сте на път да направите нов лидер!"</string> <!--"направи" ---> "направите" polite form missing-->
     <string name="XP">"XP"</string>
-    <string name="High_Score">"Висока оценка"</string> <!---->
+    <string name="High_Score">"Най-висок Резултат"</string> <!--the translation when converted into English means "High rating/grade", a correct one would be "Най-висок резултат"-->
 
 
     <string name="_3v3">"3v3"</string>
     <string name="_5v5">"5v5"</string>
     <string name="_8v8">"8v8"</string>
-    <string name="Top_Ranks">"Топ Ранга"</string> <!---->
-    <string name="My_Ranks">"Моят Ранга"</string> <!---->
+    <string name="Top_Ranks">"Топ Ранкове"</string> <!--"Ранга" ---> "Ранкове" wrong plural form used-->
+    <string name="My_Ranks">"Моите Ранкове"</string> <!--"Моят Ранга" ---> "Моите Ранкове" again wrong plural form used-->
     <string name="Player_XP">"XP Player"</string> <!---->
 
     <string name="W_D_L">"WDL"</string>
     <string name="MATCH_START">"НАЧАЛО НА МАЧА"</string>
     <string name="Clan_Warrior">"Воин на Клана"</string>
-    <string name="Win_a_Clan_War">"Спечели Bойна на Kланове"</string> <!---->
+    <string name="Win_a_Clan_War">"Спечели Клан Война"</string> <!--while it isn't wrong, I must keep the style the same as earlier translations, thus the fix "Война на Кланове" ---> "Клан война"-->
     <string name="Global">"Глобално"</string>
     <string name="Spectating">"Зрител"</string>
 
@@ -395,40 +395,40 @@
     <string name="Season">"Сезон"</string>
     <string name="The_next_season_begins">"Следващият сезон започва"</string>
 
-    <string name="Current">"Ток"</string> <!---->
+    <string name="Current">"Текущ"</string> <!--ток = electricity (doesn't fit contextually); Текущ = current-->
     <string name="leaves_">"листа."</string>
     <string name="Leaf_Collector">"Събирач на Листа"</string>
-    <string name="Collect_1000_leaves_">"Събирайте 1000 листа."</string> <!---->
+    <string name="Collect_1000_leaves_">"Съберете 1000 листа."</string> <!--wrong conditional used-->
     <string name="XP_Boost">"XP Boost"</string>
     <string name="Double">"Двойно"</string>
     <string name="Hour">"Час"</string>
-    <string name="Hours">"Часове"</string> <!---->
+    <string name="Hours">"Часа"</string> <!--wrong plural form used-->
 
 
-    <string name="Triple">"Троен"</string> <!---->
-    <string name="Leaf_Hoarder">"Leaf Hoarder"</string> <!---->
-    <string name="Collect_5000_leaves_">"Събирайте 5000 листа."</string> <!---->
+    <string name="Triple">"Тройно"</string> <!--wrong gender of the word used-->
+    <string name="Leaf_Hoarder">"Колекционер на Листа"</string> <!--lacks a translation; however, here's my reasoning to translate it like that: since there is already a leaf collector, hoarder, and mogul, i have decided to make each of the translations sound as if they are progressively scaling upwards and also using the appropriate words for them - just like it is in the original (English)-->
+    <string name="Collect_5000_leaves_">"Съберете 5000 листа."</string> <!--wrong conditional used-->
 
 
     <string name="Arena">"Арена"</string>
-    <string name="Enter_the_Arena">"Въведете Арена"</string> <!---->
+    <string name="Enter_the_Arena">"Влезте в Арената"</string> <!--the translation means "enter an arena" but not as in "join', but rather as in "enter the name of sth", so "Въведете Арена" ---> "Влезте в Арената"-->
 
 
     <string name="Purchase_History">"История на покупките"</string>
 
-    <string name="Purchases_Unavailable_">"Покупките Unavailable!"</string> <!---->
-    <string name="You_can_purchase_this_skin_for">"Можете да закупите този кожата за"</string> <!---->
-    <string name="PURCHASE">"Покупка"</string> <!---->
-    <string name="Error_in_backup_data_">"Грешка в данните пространство!"</string> <!---->
+    <string name="Purchases_Unavailable_">"Покупките са Недостъпни!"</string> <!--lacks a translation-->
+    <string name="You_can_purchase_this_skin_for">"Можете да закупите този скин за"</string> <!--"кожата" ---> "скин" maintains the terminology of the game-->
+    <string name="PURCHASE">"КУПИ"</string> <!--while it is correct, the verb form should be used, and not the noun "Покупка" ---> "Купи"-->
+    <string name="Error_in_backup_data_">"Грешка в архивираните данни!"</string> <!--the translation is completely wrong "Грешка в данните пространство" ---> "Грешка в архивираните данни"-->
 
 
     <string name="Remove_Ads">"Премахни рекламите"</string>
     <string name="Reward">"Награда"</string>
     <string name="Please_Wait___">"Моля Изчакай…"</string>
-    <string name="Purchasing">"Закупуване"</string> <!---->
+    <string name="Purchasing">"Купува се"</string> <!--wrong form of the word used; should be "Закупуване" ---> "Купува се"-->
 
-    <string name="Purchase_Successful_">"Покупка успешна."</string> <!---->
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Може да се наложи да се свърже отново да се използва за закупуване."</string> <!---->
+    <string name="Purchase_Successful_">"Покупката е успешна."</string> <!--missing the auxilliary "to be" (otherwise the grammar is very wrong"-->
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Може да се наложи да рестартирате, за да се използвате покупката."</string> <!--"Може да се наложи да се свърже отново да се използва за закупуване" ---> "Може да се наложи да рестартирате, за да се използвате покупката" many things were wrong grammar wise, but i fixed it by using the correct forms of the words + using a correct more logical synonym-->
     <string name="Confirm_Purchase">"Потвърдете Покупка"</string>
     <string name="x3_XP_24_hours">"3x XP 24 часа"</string>
     <string name="x3_XP_1_Hour">"3x XP 1 Час"</string>
@@ -438,10 +438,10 @@
     <string name="You_cannot_purchase_this_right_now_">"Вие не можете да закупите това точно сега."</string>
 
 
-    <string name="Loading_Purchases___">"Зареждане Покупките …"</string> <!---->
-    <string name="In_App_Purchases">"В ап покупки"</string> <!---->
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Не може да се прилага нов тласък XP, докато изтече текущият тласък."</string> <!---->
-    <string name="This_purchase_has_already_been_redeemed_">"Тази покупка вече е изкупил."</string> <!---->
+    <string name="Loading_Purchases___">"Зареждане на Покупките …"</string> <!--a preposition is missing-->
+    <string name="In_App_Purchases">"Попупки в Играта"</string> <!--here the translation literally took the english letter and put their ciryllic version, so a correct translation is: "В ап покупки" ---> "Попупки в Играта-->
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Не може да се прилага ново XP засилване, докато не е изтекло текущото."</string> <!--"Не може да се прилага нов тласък XP, докато изтече текущият тласък" ---> "Не може да се прилага ново XP засилване, докато не е изтекло текущото" fixed the grammar while maintaining the terminology altogether-->
+    <string name="This_purchase_has_already_been_redeemed_">"Тази покупка вече е осребрена."</string> <!--redeemed indeed means what is translated here, but a synonym that suits everything better is: "осребрена"-->
 
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Вие не можете да отстраните сами. Оставете клан вместо."</string> <!---->
 
